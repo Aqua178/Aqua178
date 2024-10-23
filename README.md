@@ -1,20 +1,18 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjM0Y3Ywcmkxajk0YW44N2k1d2toMmFpN3ZsOXpqb3Y4anNiNmVmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="300"/>
-  <h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  </h1>
+  <h3>Software engineer</h3>
+  <a href="https://t.me/aaaquaaa">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
+  </a>
 </div>
 
-## :man_technologist: ABOUT ME
+### :man_technologist: About me:
 My name is Aleksei and I am a Python Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :computer: I have experience developing on Django, FastApi, Flask, Python-Telegram-Bot. I am ready to cooperate and create working solutions!
 
 - :books:&:swimming_man: My hobbies include reading books and swimming.
-  
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aaaquaaa)
 
-## :hammer_and_wrench: LANGUAGES AND TOOLS 
+### :hammer_and_wrench: Languages and tools: 
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" title="Django" alt="Django" width="70" height="40"/> </a>
@@ -31,5 +29,5 @@ My name is Aleksei and I am a Python Developer  <img src="https://media.giphy.co
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 </div>
 
-## :fire: My stats 
+### :computer: My stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqua178&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
